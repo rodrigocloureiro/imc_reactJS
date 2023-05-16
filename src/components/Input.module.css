@@ -8,6 +8,7 @@
   margin: 5px 0;
   color: #fff;
   transition: transform .5s;
+  border-radius: 0;
 }
 
 .input:focus {
