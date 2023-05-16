@@ -9,7 +9,7 @@ Nesta aplicação, os usuários podem inserir sua altura e peso em um formulári
 
 P.S.: Não é Mobile-first. A responsividade ainda será implementada.
 
-[Run here](https://rloureiroimc.netlify.app/)
+#[Run here](https://rloureiroimc.netlify.app/)
 
 <img src='https://i.imgur.com/VImAGue.png' alt='Imagem projeto IMC' style="width: 80%" />
 
