@@ -1,7 +1,7 @@
 # IMC
 Projeto desenvolvido em ReactJS com Vite para cálculo do IMC (Índice de Massa Corporal)
 
-O projeto de IMC desenvolvido em React com Vite é uma aplicação web que permite aos usuários calcular e acompanhar seu Índice de Massa Corporal de forma simples e intuitiva.
+É uma aplicação web que permite aos usuários calcular e acompanhar seu Índice de Massa Corporal de forma simples e intuitiva.
 
 O Índice de Massa Corporal é uma medida que utiliza a altura e o peso de uma pessoa para avaliar se ela está dentro de faixas consideradas saudáveis.
 
